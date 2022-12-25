@@ -1,7 +1,7 @@
 const data = [
     {
-        "text": "Petra on the sunset with the sky in the dots of the stars",
-        "generatedImagesList": [[
+        text: "Petra on the sunset with the sky in the dots of the stars",
+        generatedImagesList: [[
             "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-79T8xEnZhbGw3JcB4eqhLc0j.png?st=2022-12-17T11%3A57%3A07Z&se=2022-12-17T13%3A57%3A07Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T05%3A47%3A21Z&ske=2022-12-18T05%3A47%3A21Z&sks=b&skv=2021-08-06&sig=oUFubtASy9yuu4BD5OjH2Z0bRCtZUU9Rp2Y/t39dWag%3D",
             "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-S0t4yMvNDuvu1q73PSOb0lYq.png?st=2022-12-17T11%3A57%3A07Z&se=2022-12-17T13%3A57%3A07Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T05%3A47%3A21Z&ske=2022-12-18T05%3A47%3A21Z&sks=b&skv=2021-08-06&sig=FbaaP3cndTvy7L7bFSrWWYUdY4xrsnjWpUYaiKIY7JI%3D",
             "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-ONCcZOh01B0hwUdIEqdTbyH6.png?st=2022-12-17T11%3A57%3A07Z&se=2022-12-17T13%3A57%3A07Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T05%3A47%3A21Z&ske=2022-12-18T05%3A47%3A21Z&sks=b&skv=2021-08-06&sig=Dt8q3uF6lVXESRLdzLjvd9j2iCaJkJ5HFfrbyXdHltA%3D",
@@ -13,8 +13,8 @@ const data = [
         ]]
     },
     {
-        "text": "The Scream from the Munch painting buys a fortune-telling ball and looks into it with horror",
-        "generatedImagesList": [[
+        text: "The Scream from the Munch painting buys a fortune-telling ball and looks into it with horror",
+        generatedImagesList: [[
             "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-X3eOGsQzg75ofKIxDEWOI4aM.png?st=2022-12-17T12%3A00%3A53Z&se=2022-12-17T14%3A00%3A53Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T02%3A19%3A29Z&ske=2022-12-18T02%3A19%3A29Z&sks=b&skv=2021-08-06&sig=ocJmEXwQGFhqSnUzdMvEf9yvs6q0w3ooztCfD2XRYwo%3D",
             "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-5NIMPZUlYuHW5l5bmHGY2JLs.png?st=2022-12-17T12%3A00%3A53Z&se=2022-12-17T14%3A00%3A53Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T02%3A19%3A29Z&ske=2022-12-18T02%3A19%3A29Z&sks=b&skv=2021-08-06&sig=4sTiyByye7nEO9qhD63vp0YZINnITC/E84dD6J9o3/I%3D",
             "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-3IN8GMAuoHR2pZ2y1wPXLzf4.png?st=2022-12-17T12%3A00%3A53Z&se=2022-12-17T14%3A00%3A53Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T02%3A19%3A29Z&ske=2022-12-18T02%3A19%3A29Z&sks=b&skv=2021-08-06&sig=rJHLWgclH0p8Z1vqStKnzKzJvaqQB1disk3wke8J09o%3D",
@@ -26,8 +26,8 @@ const data = [
         ]]
     },
     {
-        "text": "strange stuff in the village during autumn",
-        "generatedImagesList": [[
+        text: "strange stuff in the village during autumn",
+        generatedImagesList: [[
             "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-iU2KWXsvl6L9MLmgFb2fO1AB.png?st=2022-12-17T15%3A59%3A28Z&se=2022-12-17T17%3A59%3A28Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T12%3A08%3A37Z&ske=2022-12-18T12%3A08%3A37Z&sks=b&skv=2021-08-06&sig=J6GoGMI6NULQLs4dD7CK3Eg4YRDpXJ/BVkiT8lpAuHA%3D",
             "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-vagc3SrgkX20aK2kECJjZxl9.png?st=2022-12-17T15%3A59%3A28Z&se=2022-12-17T17%3A59%3A28Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T12%3A08%3A37Z&ske=2022-12-18T12%3A08%3A37Z&sks=b&skv=2021-08-06&sig=9KQ9y3kLbZKe1i9Ctrk%2BI6Nl0pwslLSHF8NJUAcbknw%3D",
             "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-YiFcHgzS2OcXRI0Fdof2cIZw.png?st=2022-12-17T15%3A59%3A28Z&se=2022-12-17T17%3A59%3A28Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T12%3A08%3A37Z&ske=2022-12-18T12%3A08%3A37Z&sks=b&skv=2021-08-06&sig=MNNTJS/CILu3sz8GAjVPEefCvuRMYgKn0VEMm1P4ieU%3D",
@@ -39,8 +39,8 @@ const data = [
         ]]
     },
     {
-        "text": "strange stuff in the village during autumn in the space",
-        "generatedImagesList": [[
+        text: "strange stuff in the village during autumn in the space",
+        generatedImagesList: [[
             "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-UX9dRSa6n9paUqxqPHLTQIQJ.png?st=2022-12-17T16%3A00%3A25Z&se=2022-12-17T18%3A00%3A25Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A24%3A10Z&ske=2022-12-18T14%3A24%3A10Z&sks=b&skv=2021-08-06&sig=cTNRJCbWyqnZFh1cDA5mxXahxik1awe5LKrlH16Kr%2B0%3D",
             "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-wAvFAEPXBZYh9tcte3BzY4FN.png?st=2022-12-17T16%3A00%3A25Z&se=2022-12-17T18%3A00%3A25Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A24%3A10Z&ske=2022-12-18T14%3A24%3A10Z&sks=b&skv=2021-08-06&sig=x2oSYHq8WH/SX4psI1QaIVpzFvg60I4osC18JVLIB0U%3D",
             "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-Ed0zR6PAefuhpigz2u0n0E9q.png?st=2022-12-17T16%3A00%3A25Z&se=2022-12-17T18%3A00%3A25Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A24%3A10Z&ske=2022-12-18T14%3A24%3A10Z&sks=b&skv=2021-08-06&sig=xS7v5dPYLAOr/oe0/fyTQd2qiEqEk2bF6PlXpX%2B6Wr8%3D",
@@ -52,8 +52,8 @@ const data = [
         ]]
     },
     {
-        "text": "strange stuff in the village during autumn in the space in the Vincent van Gogh style",
-        "generatedImagesList": [[
+        text: "strange stuff in the village during autumn in the space in the Vincent van Gogh style",
+        generatedImagesList: [[
             "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-nZ8ZKW266BkZIXX05EvCXqLB.png?st=2022-12-17T16%3A02%3A34Z&se=2022-12-17T18%3A02%3A34Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T16%3A35%3A38Z&ske=2022-12-18T16%3A35%3A38Z&sks=b&skv=2021-08-06&sig=U7xb68Koc5kseHYYA1sQ9xzbRmo3E%2Bm1MW1libWkIb8%3D",
             "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-x8ShYZRmjTofiub0oTCCJwNC.png?st=2022-12-17T16%3A02%3A34Z&se=2022-12-17T18%3A02%3A34Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T16%3A35%3A38Z&ske=2022-12-18T16%3A35%3A38Z&sks=b&skv=2021-08-06&sig=qiXckxQJ4qHV6EHARlc4mM%2BDjg7pE3oI5R/vdPsa9cQ%3D",
             "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-F4K9Lo6bsZ7Rgvxx1tqGR7Dm.png?st=2022-12-17T16%3A02%3A34Z&se=2022-12-17T18%3A02%3A34Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T16%3A35%3A38Z&ske=2022-12-18T16%3A35%3A38Z&sks=b&skv=2021-08-06&sig=arDOczaLfGn5t6YEWHeah5IZDt6H2dIWFML%2B3IKHFic%3D",
@@ -65,8 +65,8 @@ const data = [
         ]]
     },
     {
-        "text": "Vincent van Gogh in the space",
-        "generatedImagesList": [[
+        text: "Vincent van Gogh in the space",
+        generatedImagesList: [[
             "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-Q9pD746iVkMlecQ3ofUaMQEo.png?st=2022-12-17T16%3A03%3A53Z&se=2022-12-17T18%3A03%3A53Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T16%3A29%3A40Z&ske=2022-12-18T16%3A29%3A40Z&sks=b&skv=2021-08-06&sig=aqiUn%2B9Fd6%2BI/1G6W/E5p2ScyMSH3ZQBKBScHoVlBn8%3D",
             "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-id82g7xGnLabuR6m9clNsw6d.png?st=2022-12-17T16%3A03%3A53Z&se=2022-12-17T18%3A03%3A53Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T16%3A29%3A40Z&ske=2022-12-18T16%3A29%3A40Z&sks=b&skv=2021-08-06&sig=dae/jamZYLnbXAU3g8JN4Rt0EQ8W0s0OJDc2i%2BOt/Wc%3D",
             "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-w1XSPPq0utH3jiWhK61p9mBz.png?st=2022-12-17T16%3A03%3A53Z&se=2022-12-17T18%3A03%3A53Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T16%3A29%3A40Z&ske=2022-12-18T16%3A29%3A40Z&sks=b&skv=2021-08-06&sig=/Kq5SOUGBDbIONnd7PgOY4hFEAsOEpwO/X4sEz2A6h8%3D",
@@ -78,8 +78,8 @@ const data = [
         ]]
     },
     {
-        "text": "Vincent van Gogh and Die Hard in space are fighting for the food",
-        "generatedImagesList": [[
+        text: "Vincent van Gogh and Die Hard in space are fighting for the food",
+        generatedImagesList: [[
             "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-C7sFnm0hXkgRoaUBiccWmxx9.png?st=2022-12-17T16%3A05%3A38Z&se=2022-12-17T18%3A05%3A38Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T16%3A29%3A59Z&ske=2022-12-18T16%3A29%3A59Z&sks=b&skv=2021-08-06&sig=4f68/V6shfw2KU8OfKMI1Y13X%2B%2BPU8zz9VHVHQNBFJ0%3D",
             "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-rQdo8f9nLXuh4oS6lgqbZc8S.png?st=2022-12-17T16%3A05%3A38Z&se=2022-12-17T18%3A05%3A38Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T16%3A29%3A59Z&ske=2022-12-18T16%3A29%3A59Z&sks=b&skv=2021-08-06&sig=wMRxlDL6S2lTfDj1w96zPN408ZeY6FwnDklX%2BUQy%2BEE%3D",
             "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-EAiMYd0AM5rsxQ4OUKC1NRv1.png?st=2022-12-17T16%3A05%3A38Z&se=2022-12-17T18%3A05%3A38Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T16%3A29%3A59Z&ske=2022-12-18T16%3A29%3A59Z&sks=b&skv=2021-08-06&sig=f8W06/g5GDvPwsF2/as%2BTFwtm/qGZt9/hz1CNPhaP/I%3D",
@@ -91,8 +91,8 @@ const data = [
         ]]
     },
     {
-        "text": "Vincent van Gogh and Die Hard in space are fighting for the food",
-        "generatedImagesList": [[
+        text: "Vincent van Gogh and Die Hard in space are fighting for the food",
+        generatedImagesList: [[
             "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-C7sFnm0hXkgRoaUBiccWmxx9.png?st=2022-12-17T16%3A05%3A38Z&se=2022-12-17T18%3A05%3A38Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T16%3A29%3A59Z&ske=2022-12-18T16%3A29%3A59Z&sks=b&skv=2021-08-06&sig=4f68/V6shfw2KU8OfKMI1Y13X%2B%2BPU8zz9VHVHQNBFJ0%3D",
             "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-rQdo8f9nLXuh4oS6lgqbZc8S.png?st=2022-12-17T16%3A05%3A38Z&se=2022-12-17T18%3A05%3A38Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T16%3A29%3A59Z&ske=2022-12-18T16%3A29%3A59Z&sks=b&skv=2021-08-06&sig=wMRxlDL6S2lTfDj1w96zPN408ZeY6FwnDklX%2BUQy%2BEE%3D",
             "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-EAiMYd0AM5rsxQ4OUKC1NRv1.png?st=2022-12-17T16%3A05%3A38Z&se=2022-12-17T18%3A05%3A38Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T16%3A29%3A59Z&ske=2022-12-18T16%3A29%3A59Z&sks=b&skv=2021-08-06&sig=f8W06/g5GDvPwsF2/as%2BTFwtm/qGZt9/hz1CNPhaP/I%3D",
@@ -104,8 +104,8 @@ const data = [
         ]]
     },
     {
-        "text": "Vincent van Gogh and Die Hard in space on the romantic date",
-        "generatedImagesList": [[
+        text: "Vincent van Gogh and Die Hard in space on the romantic date",
+        generatedImagesList: [[
             "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-B7HfFUjYqo6VnenSVQKS2UId.png?st=2022-12-17T16%3A06%3A44Z&se=2022-12-17T18%3A06%3A44Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T15%3A49%3A54Z&ske=2022-12-18T15%3A49%3A54Z&sks=b&skv=2021-08-06&sig=9zThOpjggto9LciA%2BEaCV6T1SCBtouVVLDmMAgqOvyE%3D",
             "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-bcq8MwpKbkGxv6MzK025Q541.png?st=2022-12-17T16%3A06%3A44Z&se=2022-12-17T18%3A06%3A44Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T15%3A49%3A54Z&ske=2022-12-18T15%3A49%3A54Z&sks=b&skv=2021-08-06&sig=uurFjLG/8dUJ0g8nyhyohc5TS9bCvRiDMSRnafc8j14%3D",
             "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-uJFmaHM8C76upcq3n56oyLXp.png?st=2022-12-17T16%3A06%3A44Z&se=2022-12-17T18%3A06%3A44Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T15%3A49%3A54Z&ske=2022-12-18T15%3A49%3A54Z&sks=b&skv=2021-08-06&sig=teGHwxv/gWOL6F8FebK13E8J2rdi0iDm0gAKrUsJGx4%3D",
@@ -117,8 +117,8 @@ const data = [
         ]]
     },
     {
-        "text": "Vincent van Gogh and Bruce Willis In space on a special place in a weed farm are smoking joints in Israel",
-        "generatedImagesList": [[
+        text: "Vincent van Gogh and Bruce Willis In space on a special place in a weed farm are smoking joints in Israel",
+        generatedImagesList: [[
             "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-O6jqjUZhLO9BhkHEpeImpRVd.png?st=2022-12-17T16%3A13%3A40Z&se=2022-12-17T18%3A13%3A40Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T12%3A44%3A39Z&ske=2022-12-18T12%3A44%3A39Z&sks=b&skv=2021-08-06&sig=Db1AlYfpXXZ8SGzYJEmpMc1XXL6%2BkHyaajogn35LCj0%3D",
             "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-qw3nVmGMKQ9PsdYelZRQBwY0.png?st=2022-12-17T16%3A13%3A40Z&se=2022-12-17T18%3A13%3A40Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T12%3A44%3A39Z&ske=2022-12-18T12%3A44%3A39Z&sks=b&skv=2021-08-06&sig=5iRESxrJzqCfXNcuVht4Mg8nx7jVioFLV5qL8XzdIho%3D",
             "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-DKmZUVOs677fQyQt9Zk46s5T.png?st=2022-12-17T16%3A13%3A40Z&se=2022-12-17T18%3A13%3A40Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T12%3A44%3A39Z&ske=2022-12-18T12%3A44%3A39Z&sks=b&skv=2021-08-06&sig=lXDsIdKm7s3M8EflTFqbtH/nXAwp2EeGFnd2enqRJbA%3D",
@@ -130,38 +130,38 @@ const data = [
         ]]
     },
     {
-        "text": "flying pita, mouse, snowing weather in Israel ",
-        "generatedImagesList": [
+        text: "flying pita, mouse, snowing weather in Israel ",
+        generatedImagesList: [
             [
-            "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-CzUjdmSGe6Ylf8nieniW80W8.png?st=2022-12-17T16%3A18%3A17Z&se=2022-12-17T18%3A18%3A17Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A19%3A22Z&ske=2022-12-18T14%3A19%3A22Z&sks=b&skv=2021-08-06&sig=N5UZAA7bqxH9CkXjS/8zU8S5x2yB2Bu%2BydzA3v3X7es%3D",
-            "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-3qxwutOy1itKdmuk6LQKAlAx.png?st=2022-12-17T16%3A18%3A17Z&se=2022-12-17T18%3A18%3A17Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A19%3A22Z&ske=2022-12-18T14%3A19%3A22Z&sks=b&skv=2021-08-06&sig=49buaVY1IjOg0rFA3dEajMVhle/65HtJAfqgEW2T5Vs%3D",
-            "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-HGPotnnEpKCLBbUhqyR1dToP.png?st=2022-12-17T16%3A18%3A17Z&se=2022-12-17T18%3A18%3A17Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A19%3A22Z&ske=2022-12-18T14%3A19%3A22Z&sks=b&skv=2021-08-06&sig=t6KiSB3PMIXv9kt4yRIrTdeVPppeyW4p3/Ar5lKKZFw%3D",
-            "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-T3wTcRU9RZJg2Dhv46trkf72.png?st=2022-12-17T16%3A18%3A17Z&se=2022-12-17T18%3A18%3A17Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A19%3A22Z&ske=2022-12-18T14%3A19%3A22Z&sks=b&skv=2021-08-06&sig=4ZlPveBpa0OKzePaJaPyXa141MSEgSI40qJNs0KVQeI%3D",
-            "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-AS2Bu6X6xdWq0yVKNfKJDMDE.png?st=2022-12-17T16%3A18%3A17Z&se=2022-12-17T18%3A18%3A17Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A19%3A22Z&ske=2022-12-18T14%3A19%3A22Z&sks=b&skv=2021-08-06&sig=ulXD21ySnoIP9hhPWjZG6TsyvaLetan5fi/cLZV%2BKH8%3D",
-            "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-YyZkzSVeHlw6l5TXdG74yMJW.png?st=2022-12-17T16%3A18%3A17Z&se=2022-12-17T18%3A18%3A17Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A19%3A22Z&ske=2022-12-18T14%3A19%3A22Z&sks=b&skv=2021-08-06&sig=zzQM3lToZNz8qUxYghVst6Tno0Ns0/8EQZINKGay03A%3D",
-            "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-8cwGqKSVX4itCV5UNnUPn8s2.png?st=2022-12-17T16%3A18%3A17Z&se=2022-12-17T18%3A18%3A17Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A19%3A22Z&ske=2022-12-18T14%3A19%3A22Z&sks=b&skv=2021-08-06&sig=Sdz923LUznv0zePmcFHP6s8UuqsEb3Hnl62j4IZgkp0%3D",
-            "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-pcmz7KuqWQsQWaqEpMoPPRAF.png?st=2022-12-17T16%3A18%3A17Z&se=2022-12-17T18%3A18%3A17Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A19%3A22Z&ske=2022-12-18T14%3A19%3A22Z&sks=b&skv=2021-08-06&sig=miRihti%2Bnlq6KL9P39xLKUbmymnk/%2B1g%2Bd/IFdKlpX8%3D"
-        ]
+                "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-CzUjdmSGe6Ylf8nieniW80W8.png?st=2022-12-17T16%3A18%3A17Z&se=2022-12-17T18%3A18%3A17Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A19%3A22Z&ske=2022-12-18T14%3A19%3A22Z&sks=b&skv=2021-08-06&sig=N5UZAA7bqxH9CkXjS/8zU8S5x2yB2Bu%2BydzA3v3X7es%3D",
+                "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-3qxwutOy1itKdmuk6LQKAlAx.png?st=2022-12-17T16%3A18%3A17Z&se=2022-12-17T18%3A18%3A17Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A19%3A22Z&ske=2022-12-18T14%3A19%3A22Z&sks=b&skv=2021-08-06&sig=49buaVY1IjOg0rFA3dEajMVhle/65HtJAfqgEW2T5Vs%3D",
+                "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-HGPotnnEpKCLBbUhqyR1dToP.png?st=2022-12-17T16%3A18%3A17Z&se=2022-12-17T18%3A18%3A17Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A19%3A22Z&ske=2022-12-18T14%3A19%3A22Z&sks=b&skv=2021-08-06&sig=t6KiSB3PMIXv9kt4yRIrTdeVPppeyW4p3/Ar5lKKZFw%3D",
+                "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-T3wTcRU9RZJg2Dhv46trkf72.png?st=2022-12-17T16%3A18%3A17Z&se=2022-12-17T18%3A18%3A17Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A19%3A22Z&ske=2022-12-18T14%3A19%3A22Z&sks=b&skv=2021-08-06&sig=4ZlPveBpa0OKzePaJaPyXa141MSEgSI40qJNs0KVQeI%3D",
+                "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-AS2Bu6X6xdWq0yVKNfKJDMDE.png?st=2022-12-17T16%3A18%3A17Z&se=2022-12-17T18%3A18%3A17Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A19%3A22Z&ske=2022-12-18T14%3A19%3A22Z&sks=b&skv=2021-08-06&sig=ulXD21ySnoIP9hhPWjZG6TsyvaLetan5fi/cLZV%2BKH8%3D",
+                "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-YyZkzSVeHlw6l5TXdG74yMJW.png?st=2022-12-17T16%3A18%3A17Z&se=2022-12-17T18%3A18%3A17Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A19%3A22Z&ske=2022-12-18T14%3A19%3A22Z&sks=b&skv=2021-08-06&sig=zzQM3lToZNz8qUxYghVst6Tno0Ns0/8EQZINKGay03A%3D",
+                "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-8cwGqKSVX4itCV5UNnUPn8s2.png?st=2022-12-17T16%3A18%3A17Z&se=2022-12-17T18%3A18%3A17Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A19%3A22Z&ske=2022-12-18T14%3A19%3A22Z&sks=b&skv=2021-08-06&sig=Sdz923LUznv0zePmcFHP6s8UuqsEb3Hnl62j4IZgkp0%3D",
+                "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-pcmz7KuqWQsQWaqEpMoPPRAF.png?st=2022-12-17T16%3A18%3A17Z&se=2022-12-17T18%3A18%3A17Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A19%3A22Z&ske=2022-12-18T14%3A19%3A22Z&sks=b&skv=2021-08-06&sig=miRihti%2Bnlq6KL9P39xLKUbmymnk/%2B1g%2Bd/IFdKlpX8%3D"
+            ]
         ]
     },
     {
-        "text": "flying camel is eating a little green elephant on a tree in the spaceship",
-        "generatedImagesList": [
+        text: "flying camel is eating a little green elephant on a tree in the spaceship",
+        generatedImagesList: [
             [
-            "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-dWOZwpj7vGTda4AeUjO7yMIH.png?st=2022-12-17T16%3A24%3A44Z&se=2022-12-17T18%3A24%3A44Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A09%3A32Z&ske=2022-12-18T14%3A09%3A32Z&sks=b&skv=2021-08-06&sig=mlCHGiSS3Ud3dXxrYlAaJcUbUS39xK3zfA82ZUeKrbQ%3D",
-            "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-8AEGoF3Lmwxwcj0IIE86Q2x3.png?st=2022-12-17T16%3A24%3A44Z&se=2022-12-17T18%3A24%3A44Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A09%3A32Z&ske=2022-12-18T14%3A09%3A32Z&sks=b&skv=2021-08-06&sig=K8afOfn%2B3JJfodUknlREwMFl945XdASRtPqUZaq5xUA%3D",
-            "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-ext977L0RtUQO0ioUGkov4Cm.png?st=2022-12-17T16%3A24%3A44Z&se=2022-12-17T18%3A24%3A44Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A09%3A32Z&ske=2022-12-18T14%3A09%3A32Z&sks=b&skv=2021-08-06&sig=d9GeIYAVKzcDVFxtLFZ85E18PmEAI7eUHcyHE5L7oKU%3D",
-            "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-vVyzyBHZDxMpBz11GEEHYBbI.png?st=2022-12-17T16%3A24%3A44Z&se=2022-12-17T18%3A24%3A44Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A09%3A32Z&ske=2022-12-18T14%3A09%3A32Z&sks=b&skv=2021-08-06&sig=HrXbSjIsW79kxlc8imaGN8g94qzbsDn%2BF/2NM%2BXeR1w%3D",
-            "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-KHiu55g6ps06R9o7p7wOERc0.png?st=2022-12-17T16%3A24%3A44Z&se=2022-12-17T18%3A24%3A44Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A09%3A32Z&ske=2022-12-18T14%3A09%3A32Z&sks=b&skv=2021-08-06&sig=nDnH%2BW6EpNAEf1LfWDw8MxSBNJqawLkBMIdCtRsVkiU%3D",
-            "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-KhW7yZbdk6qIybz7ItdlgvRM.png?st=2022-12-17T16%3A24%3A44Z&se=2022-12-17T18%3A24%3A44Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A09%3A32Z&ske=2022-12-18T14%3A09%3A32Z&sks=b&skv=2021-08-06&sig=NhUNPzn04gx%2BcoiVXAxsqEOb82ZK2y61vEfsVX1OAy8%3D",
-            "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-RPD3xLlQuhWYFOY0MRowUXBC.png?st=2022-12-17T16%3A24%3A44Z&se=2022-12-17T18%3A24%3A44Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A09%3A32Z&ske=2022-12-18T14%3A09%3A32Z&sks=b&skv=2021-08-06&sig=iItuBTkzwwVAJzLp9Pyj4rdIWwvmVQYUWMEq21evN/k%3D",
-            "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-zgW6a9NIrkLaUtaTfAlS20Kf.png?st=2022-12-17T16%3A24%3A44Z&se=2022-12-17T18%3A24%3A44Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A09%3A32Z&ske=2022-12-18T14%3A09%3A32Z&sks=b&skv=2021-08-06&sig=QkZyzedU%2BJIL%2Boa5fVgeV1S67LDDsHs8tdPt3cD98l8%3D"
-        ]
+                "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-dWOZwpj7vGTda4AeUjO7yMIH.png?st=2022-12-17T16%3A24%3A44Z&se=2022-12-17T18%3A24%3A44Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A09%3A32Z&ske=2022-12-18T14%3A09%3A32Z&sks=b&skv=2021-08-06&sig=mlCHGiSS3Ud3dXxrYlAaJcUbUS39xK3zfA82ZUeKrbQ%3D",
+                "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-8AEGoF3Lmwxwcj0IIE86Q2x3.png?st=2022-12-17T16%3A24%3A44Z&se=2022-12-17T18%3A24%3A44Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A09%3A32Z&ske=2022-12-18T14%3A09%3A32Z&sks=b&skv=2021-08-06&sig=K8afOfn%2B3JJfodUknlREwMFl945XdASRtPqUZaq5xUA%3D",
+                "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-ext977L0RtUQO0ioUGkov4Cm.png?st=2022-12-17T16%3A24%3A44Z&se=2022-12-17T18%3A24%3A44Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A09%3A32Z&ske=2022-12-18T14%3A09%3A32Z&sks=b&skv=2021-08-06&sig=d9GeIYAVKzcDVFxtLFZ85E18PmEAI7eUHcyHE5L7oKU%3D",
+                "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-vVyzyBHZDxMpBz11GEEHYBbI.png?st=2022-12-17T16%3A24%3A44Z&se=2022-12-17T18%3A24%3A44Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A09%3A32Z&ske=2022-12-18T14%3A09%3A32Z&sks=b&skv=2021-08-06&sig=HrXbSjIsW79kxlc8imaGN8g94qzbsDn%2BF/2NM%2BXeR1w%3D",
+                "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-KHiu55g6ps06R9o7p7wOERc0.png?st=2022-12-17T16%3A24%3A44Z&se=2022-12-17T18%3A24%3A44Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A09%3A32Z&ske=2022-12-18T14%3A09%3A32Z&sks=b&skv=2021-08-06&sig=nDnH%2BW6EpNAEf1LfWDw8MxSBNJqawLkBMIdCtRsVkiU%3D",
+                "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-KhW7yZbdk6qIybz7ItdlgvRM.png?st=2022-12-17T16%3A24%3A44Z&se=2022-12-17T18%3A24%3A44Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A09%3A32Z&ske=2022-12-18T14%3A09%3A32Z&sks=b&skv=2021-08-06&sig=NhUNPzn04gx%2BcoiVXAxsqEOb82ZK2y61vEfsVX1OAy8%3D",
+                "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-RPD3xLlQuhWYFOY0MRowUXBC.png?st=2022-12-17T16%3A24%3A44Z&se=2022-12-17T18%3A24%3A44Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A09%3A32Z&ske=2022-12-18T14%3A09%3A32Z&sks=b&skv=2021-08-06&sig=iItuBTkzwwVAJzLp9Pyj4rdIWwvmVQYUWMEq21evN/k%3D",
+                "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-zgW6a9NIrkLaUtaTfAlS20Kf.png?st=2022-12-17T16%3A24%3A44Z&se=2022-12-17T18%3A24%3A44Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A09%3A32Z&ske=2022-12-18T14%3A09%3A32Z&sks=b&skv=2021-08-06&sig=QkZyzedU%2BJIL%2Boa5fVgeV1S67LDDsHs8tdPt3cD98l8%3D"
+            ]
         ]
     },
     {
-        "text": "flying camel is eating a little green plant on a tree in the space ",
-        "generatedImagesList": [
+        text: "flying camel is eating a little green plant on a tree in the space ",
+        generatedImagesList: [
             [
                 "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-NRrp1bo0EDqCwIvAmLgcsmzN.png?st=2022-12-17T16%3A27%3A32Z&se=2022-12-17T18%3A27%3A32Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A25%3A10Z&ske=2022-12-18T14%3A25%3A10Z&sks=b&skv=2021-08-06&sig=h7Ho8O5M7VtGvWjymIc8YQAvMSujcQ7XrWed9ESjgOQ%3D",
                 "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-KdGrQkxMBFoh5zWWW8iZhElI.png?st=2022-12-17T16%3A27%3A32Z&se=2022-12-17T18%3A27%3A32Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A25%3A10Z&ske=2022-12-18T14%3A25%3A10Z&sks=b&skv=2021-08-06&sig=z2gpAwzHsXby8QymVldyE7EhY/zMk21olT/iCMU74Jg%3D",
@@ -185,8 +185,8 @@ const data = [
         ]
     },
     {
-        "text": "Snake in toilet bowl drawing and dancing. prehistoric times",
-        "generatedImagesList": [
+        text: "Snake in toilet bowl drawing and dancing. prehistoric times",
+        generatedImagesList: [
             [
                 "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-lWKYEY85GYKbVO7oHXfeYalf.png?st=2022-12-17T16%3A31%3A00Z&se=2022-12-17T18%3A31%3A00Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T13%3A47%3A36Z&ske=2022-12-18T13%3A47%3A36Z&sks=b&skv=2021-08-06&sig=%2BW/LM0nwQGCD0H8iwdoCoxMGaXd7K6dow1EJmzaRyeU%3D",
                 "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-uBk28gxPYhySIB9KpAeG5PcH.png?st=2022-12-17T16%3A31%3A00Z&se=2022-12-17T18%3A31%3A00Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T13%3A47%3A36Z&ske=2022-12-18T13%3A47%3A36Z&sks=b&skv=2021-08-06&sig=8VyCZhcnTNYRqQl36IvDxsFo7eZebm2sORGvxTH438o%3D",
@@ -200,8 +200,8 @@ const data = [
         ]
     },
     {
-        "text": "Big Elon Musk is hugging cactus",
-        "generatedImagesList": [
+        text: "Big Elon Musk is hugging cactus",
+        generatedImagesList: [
             [
                 "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-5ieUDGJqMosuSKLZYvoZaQHr.png?st=2022-12-17T16%3A35%3A13Z&se=2022-12-17T18%3A35%3A13Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A56%3A15Z&ske=2022-12-18T14%3A56%3A15Z&sks=b&skv=2021-08-06&sig=7KC09cfqokQXsD7fzKShneplhyyCmhMYLVdKkEmOf0I%3D",
                 "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-npagANYjTbFWQJuksnDZ0Lz6.png?st=2022-12-17T16%3A35%3A13Z&se=2022-12-17T18%3A35%3A13Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A56%3A15Z&ske=2022-12-18T14%3A56%3A15Z&sks=b&skv=2021-08-06&sig=s7bTUbwqZ1U9l3sO2%2BCPcavTogOnAs3fR30ktsSLCes%3D",
@@ -215,8 +215,8 @@ const data = [
         ]
     },
     {
-        "text": "Cyberpunk 2077 place with hedgehogs",
-        "generatedImagesList": [
+        text: "Cyberpunk 2077 place with hedgehogs",
+        generatedImagesList: [
             [
                 "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-YN53d9L7sdadcUfxuFbMyg9R.png?st=2022-12-17T16%3A41%3A09Z&se=2022-12-17T18%3A41%3A09Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T12%3A48%3A53Z&ske=2022-12-18T12%3A48%3A53Z&sks=b&skv=2021-08-06&sig=DMN8%2BUeoeCp2CGf5djxKlT1Qt648kxhhW1pbXZxnN8s%3D",
                 "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-nLy5z2YBPlI8SDkvtEaKC3cV.png?st=2022-12-17T16%3A41%3A09Z&se=2022-12-17T18%3A41%3A09Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T12%3A48%3A53Z&ske=2022-12-18T12%3A48%3A53Z&sks=b&skv=2021-08-06&sig=ze2vb0wQdfHbJfS3DvZDOT7IntNtGFKkVGaHLksnkds%3D",
@@ -230,8 +230,8 @@ const data = [
         ]
     },
     {
-        "text": "Cyberpunk 2077 is place with hedgehogs in Egypt with the Pyramids in the background on the closest to the camera",
-        "generatedImagesList": [
+        text: "Cyberpunk 2077 is place with hedgehogs in Egypt with the Pyramids in the background on the closest to the camera",
+        generatedImagesList: [
             [
                 "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-dj7Jh45Jgdj5kIVjK3o3ijrh.png?st=2022-12-17T16%3A43%3A53Z&se=2022-12-17T18%3A43%3A53Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T13%3A01%3A07Z&ske=2022-12-18T13%3A01%3A07Z&sks=b&skv=2021-08-06&sig=QvK%2BdRxemYz8EyHAxBae2XEBa1aTvl4l6EpmDHu6Yns%3D",
                 "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-LzIZGb89XTGAn2noKbETrvid.png?st=2022-12-17T16%3A43%3A53Z&se=2022-12-17T18%3A43%3A53Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T13%3A01%3A07Z&ske=2022-12-18T13%3A01%3A07Z&sks=b&skv=2021-08-06&sig=xbV8HNjgPtjik4Aoan/Pff6954QmAz5W%2BlgU%2BiNyUiM%3D",
@@ -245,8 +245,8 @@ const data = [
         ]
     },
     {
-        "text": "Cyberpunk 2077. Capybaras in Egypt with the Pyramids in the background on the closest to the camera",
-        "generatedImagesList": [
+        text: "Cyberpunk 2077. Capybaras in Egypt with the Pyramids in the background on the closest to the camera",
+        generatedImagesList: [
             [
                 "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-CeovFwSzSRwlDUs0DM6kRIyI.png?st=2022-12-17T16%3A46%3A23Z&se=2022-12-17T18%3A46%3A23Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T16%3A04%3A52Z&ske=2022-12-18T16%3A04%3A52Z&sks=b&skv=2021-08-06&sig=PLTUAlw2ewYR5aExYxWqlhTuDe8nPuQA5DMP4m8O9bA%3D",
                 "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-lPg7AKZWiKYbrMiVqgVnkgYm.png?st=2022-12-17T16%3A46%3A23Z&se=2022-12-17T18%3A46%3A23Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T16%3A04%3A52Z&ske=2022-12-18T16%3A04%3A52Z&sks=b&skv=2021-08-06&sig=ey%2BRyr4AgQ28c5dvC5ENi%2BT4HoafiAHeG7D5r%2Bjmb2Y%3D",
@@ -260,8 +260,8 @@ const data = [
         ]
     },
     {
-        "text": "Lord of the rings. Capybaras in Egypt with the Pyramids in the background on the closest to the camera",
-        "generatedImagesList": [
+        text: "Lord of the rings. Capybaras in Egypt with the Pyramids in the background on the closest to the camera",
+        generatedImagesList: [
             [
                 "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-fnJcUn6iunSYGdiS5tnj9Pjz.png?st=2022-12-17T16%3A47%3A29Z&se=2022-12-17T18%3A47%3A29Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A30%3A36Z&ske=2022-12-18T14%3A30%3A36Z&sks=b&skv=2021-08-06&sig=hxRpA8xmKDGpN3ybu66MInc8vflFYMjFSTJjH7x0MZY%3D",
                 "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-N0jgKVWI1ZgJ2e61LLnfp0zN.png?st=2022-12-17T16%3A47%3A29Z&se=2022-12-17T18%3A47%3A29Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A30%3A36Z&ske=2022-12-18T14%3A30%3A36Z&sks=b&skv=2021-08-06&sig=Gh06oEWk4oOkhMeCr1Kc75LrE6OI/fNHRQ7zmP/k6t8%3D",
@@ -275,8 +275,8 @@ const data = [
         ]
     },
     {
-        "text": "Star word. Capybaras in Egypt with the Pyramids in the background on the closest to the camera",
-        "generatedImagesList": [
+        text: "Star word. Capybaras in Egypt with the Pyramids in the background on the closest to the camera",
+        generatedImagesList: [
             [
                 "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-Ry0jsu2wTtpOmDUDbbn6LTMR.png?st=2022-12-24T13%3A36%3A28Z&se=2022-12-24T15%3A36%3A28Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-24T06%3A35%3A12Z&ske=2022-12-25T06%3A35%3A12Z&sks=b&skv=2021-08-06&sig=loHUbaOzQ1tFnd/ltxDI97gNPk2RbxkECaNf1lTZ9J0%3D",
                 "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-7IWY7gk5NpV8tgihoYSNA2Ej.png?st=2022-12-24T13%3A36%3A28Z&se=2022-12-24T15%3A36%3A28Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-24T06%3A35%3A12Z&ske=2022-12-25T06%3A35%3A12Z&sks=b&skv=2021-08-06&sig=W2iCwTRUa8TuV1XCCrkw3GugA0lB9u8dsVGrBSKVGig%3D",
@@ -290,8 +290,8 @@ const data = [
         ]
     },
     {
-        "text": "Mad max. Elephants on Mars on the closest to the camera party",
-        "generatedImagesList": [
+        text: "Mad max. Elephants on Mars on the closest to the camera party",
+        generatedImagesList: [
             [
                 "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-4E7s9D5IO95p6nJp1hy3FTpg.png?st=2022-12-17T16%3A48%3A57Z&se=2022-12-17T18%3A48%3A57Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T16%3A22%3A16Z&ske=2022-12-18T16%3A22%3A16Z&sks=b&skv=2021-08-06&sig=s52z4mj5OhOTt4l/2w%2Bsimp6k2gdGRtg5Ge07caNa9w%3D",
                 "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-AyOSTpEcW1TBk2JATP12NqZF.png?st=2022-12-17T16%3A48%3A57Z&se=2022-12-17T18%3A48%3A57Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T16%3A22%3A16Z&ske=2022-12-18T16%3A22%3A16Z&sks=b&skv=2021-08-06&sig=kXcoj3EzrpPm%2B3AE6rj33xF9068b%2B7DGaWv0GMrBlTU%3D",
@@ -305,8 +305,8 @@ const data = [
         ]
     },
     {
-        "text": "Petra in the Cyberpunk 2077 world",
-        "generatedImagesList": [
+        text: "Petra in the Cyberpunk 2077 world",
+        generatedImagesList: [
             [
                 "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-k6TNoYAwVbV0PkyBqvyluBYl.png?st=2022-12-17T17%3A09%3A55Z&se=2022-12-17T19%3A09%3A55Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T15%3A06%3A55Z&ske=2022-12-18T15%3A06%3A55Z&sks=b&skv=2021-08-06&sig=Kc26hBKUdK4BFjgNIBlMef/aBYO1RUUVfatYabDQ52o%3D",
                 "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-COD38WtTjG7ylh63pl7IxsVF.png?st=2022-12-17T17%3A09%3A55Z&se=2022-12-17T19%3A09%3A55Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T15%3A06%3A55Z&ske=2022-12-18T15%3A06%3A55Z&sks=b&skv=2021-08-06&sig=FziLiMJhXQ%2Bd20mcLP%2BUlDy7c18k4Ha2NcwINF80wBI%3D",
@@ -320,8 +320,8 @@ const data = [
         ]
     },
     {
-        "text": "Petra in Israel building. Cyberpunk 2077 style",
-        "generatedImagesList": [
+        text: "Petra in Israel building. Cyberpunk 2077 style",
+        generatedImagesList: [
             [
                 "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-A8M6iduOlRvaWQxev2u6pi3S.png?st=2022-12-17T17%3A15%3A11Z&se=2022-12-17T19%3A15%3A11Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T11%3A02%3A38Z&ske=2022-12-18T11%3A02%3A38Z&sks=b&skv=2021-08-06&sig=gLucsipbpd9z0DIbL69ggnn80Lwep2DagQsTxnn/CHs%3D",
                 "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-r8RXpkFf0zUw54CmMs19Wfdn.png?st=2022-12-17T17%3A15%3A11Z&se=2022-12-17T19%3A15%3A11Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T11%3A02%3A38Z&ske=2022-12-18T11%3A02%3A38Z&sks=b&skv=2021-08-06&sig=nHePfQD2%2BHQotEKIZ1wnQi/JXvU9bpcVUxHGWvESTlA%3D",
@@ -335,8 +335,8 @@ const data = [
         ]
     },
     {
-        "text": "Petra in Israel location. Cyberpunk 2077 style",
-        "generatedImagesList": [
+        text: "Petra in Israel location. Cyberpunk 2077 style",
+        generatedImagesList: [
             [
                 "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-EdShbeuXJQtHAZmjQ4FxbQ6T.png?st=2022-12-17T17%3A15%3A47Z&se=2022-12-17T19%3A15%3A47Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T15%3A05%3A44Z&ske=2022-12-18T15%3A05%3A44Z&sks=b&skv=2021-08-06&sig=0WHTTlTmiLAFm8Sd0M%2Brm66JVk7LEv1O7NzvT8RQub8%3D",
                 "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-jItgGwmCmOCewLIbsdY066ww.png?st=2022-12-17T17%3A15%3A47Z&se=2022-12-17T19%3A15%3A47Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T15%3A05%3A44Z&ske=2022-12-18T15%3A05%3A44Z&sks=b&skv=2021-08-06&sig=APrQSzgmoc62TbFpEAmQqZqo68lY0zKCR67zCGwbfo8%3D",
@@ -350,8 +350,8 @@ const data = [
         ]
     },
     {
-        "text": "Petra in Israel location. Cyberpunk 2077 and Pokras Lampas style",
-        "generatedImagesList": [
+        text: "Petra in Israel location. Cyberpunk 2077 and Pokras Lampas style",
+        generatedImagesList: [
             [
                 "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-jyT1CZr0bw9WlAEfi4RzYe5R.png?st=2022-12-17T17%3A17%3A14Z&se=2022-12-17T19%3A17%3A14Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T15%3A19%3A40Z&ske=2022-12-18T15%3A19%3A40Z&sks=b&skv=2021-08-06&sig=Bt46P6W9s43pFKPYedkXngy45A%2BDFCi5bUjg4IM3JsI%3D",
                 "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-QLQTiv3YfeJZADsu1ifrovV2.png?st=2022-12-17T17%3A17%3A14Z&se=2022-12-17T19%3A17%3A14Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T15%3A19%3A40Z&ske=2022-12-18T15%3A19%3A40Z&sks=b&skv=2021-08-06&sig=tP3EWGsISlUr6w%2BO3ZW9yvOWOcrXmlQtAxr4m/R/XaM%3D",
@@ -365,8 +365,8 @@ const data = [
         ]
     },
     {
-        "text": "Petra in Israel location. Star wars style",
-        "generatedImagesList": [
+        text: "Petra in Israel location. Star wars style",
+        generatedImagesList: [
             [
                 "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-E1vdi9NafMDBgESE034cyIXI.png?st=2022-12-17T17%3A25%3A07Z&se=2022-12-17T19%3A25%3A07Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T12%3A05%3A16Z&ske=2022-12-18T12%3A05%3A16Z&sks=b&skv=2021-08-06&sig=sotYvMFlzzgnRvnYMNXWad89l%2B4KuXo1mJrM9efKa2o%3D",
                 "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-lQwqNhkxdB1NHj8hHNBC49uN.png?st=2022-12-17T17%3A25%3A07Z&se=2022-12-17T19%3A25%3A07Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T12%3A05%3A16Z&ske=2022-12-18T12%3A05%3A16Z&sks=b&skv=2021-08-06&sig=U7Jz366i5kMqo9qcvxixbWuq8/41MVlHzRjHrIr3hLs%3D",
@@ -380,8 +380,8 @@ const data = [
         ]
     },
     {
-        "text": "Petra in Star wars style",
-        "generatedImagesList": [
+        text: "Petra in Star wars style",
+        generatedImagesList: [
             [
                 "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-cBDwJM5WnXZrWJTilsn2eHpg.png?st=2022-12-17T17%3A25%3A46Z&se=2022-12-17T19%3A25%3A46Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T13%3A54%3A34Z&ske=2022-12-18T13%3A54%3A34Z&sks=b&skv=2021-08-06&sig=1ySMs60X%2BF%2BTjsFYPLCkQS1/0f0kDRcTx5GpcUprjIk%3D",
                 "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-PZODdBae52dC6J69UaFE9FQO.png?st=2022-12-17T17%3A25%3A46Z&se=2022-12-17T19%3A25%3A46Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T13%3A54%3A34Z&ske=2022-12-18T13%3A54%3A34Z&sks=b&skv=2021-08-06&sig=HHJBbbBOA4cyO2dIbmzRY1uFijsSvoCjl2ZBmCPbdZw%3D",
@@ -395,8 +395,8 @@ const data = [
         ]
     },
     {
-        "text": "warm Arabian night in Agraba",
-        "generatedImagesList": [
+        text: "warm Arabian night in Agraba",
+        generatedImagesList: [
             [
                 "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-9nGDf2WsRj0xftERhVjGRCiB.png?st=2022-12-17T17%3A26%3A53Z&se=2022-12-17T19%3A26%3A53Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T11%3A53%3A45Z&ske=2022-12-18T11%3A53%3A45Z&sks=b&skv=2021-08-06&sig=1ki0LNn%2BEZaT13gmCXsh266XGw1AMzuNKhGDzTHxpwg%3D",
                 "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-fjfrQoBGNkQTSuvXeZ4KD0EN.png?st=2022-12-17T17%3A26%3A53Z&se=2022-12-17T19%3A26%3A53Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T11%3A53%3A45Z&ske=2022-12-18T11%3A53%3A45Z&sks=b&skv=2021-08-06&sig=EgpEOQHLlqpiySKMmYb9leJsE2ZJoroQqTOZtzpdQak%3D",
@@ -410,8 +410,8 @@ const data = [
         ]
     },
     {
-        "text": "warm Arabian night in Agraba geisha with black jack in a casino",
-        "generatedImagesList": [
+        text: "warm Arabian night in Agraba geisha with black jack in a casino",
+        generatedImagesList: [
             [
                 "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-rzLdMnehIjpisLNXvv54qyYv.png?st=2022-12-17T17%3A28%3A01Z&se=2022-12-17T19%3A28%3A01Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A29%3A49Z&ske=2022-12-18T14%3A29%3A49Z&sks=b&skv=2021-08-06&sig=5SNU9LH2OgW0Pcc2nungPNGILbUP7oLEBAnX1hFNcEI%3D",
                 "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-epjetWxglvEuzjax2Sc6vq7q.png?st=2022-12-17T17%3A28%3A01Z&se=2022-12-17T19%3A28%3A01Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A29%3A49Z&ske=2022-12-18T14%3A29%3A49Z&sks=b&skv=2021-08-06&sig=zjOeo3odyXXxGGM13uaIREF15R39l7H/PqLw53wFYzc%3D",
@@ -425,8 +425,8 @@ const data = [
         ]
     },
     {
-        "text": "warm Arabian night in Agraba geisha with black jack in a casino",
-        "generatedImagesList": [
+        text: "warm Arabian night in Agraba geisha with black jack in a casino",
+        generatedImagesList: [
             [
                 "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-rzLdMnehIjpisLNXvv54qyYv.png?st=2022-12-17T17%3A28%3A01Z&se=2022-12-17T19%3A28%3A01Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A29%3A49Z&ske=2022-12-18T14%3A29%3A49Z&sks=b&skv=2021-08-06&sig=5SNU9LH2OgW0Pcc2nungPNGILbUP7oLEBAnX1hFNcEI%3D",
                 "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-epjetWxglvEuzjax2Sc6vq7q.png?st=2022-12-17T17%3A28%3A01Z&se=2022-12-17T19%3A28%3A01Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T14%3A29%3A49Z&ske=2022-12-18T14%3A29%3A49Z&sks=b&skv=2021-08-06&sig=zjOeo3odyXXxGGM13uaIREF15R39l7H/PqLw53wFYzc%3D",
@@ -440,8 +440,8 @@ const data = [
         ]
     },
     {
-        "text": "warm Arabian night in Agraba geisha with blackjack",
-        "generatedImagesList": [
+        text: "warm Arabian night in Agraba geisha with blackjack",
+        generatedImagesList: [
             [
                 "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-9ueVhkwoUjHXBUOI2WVoGzdx.png?st=2022-12-17T17%3A28%3A38Z&se=2022-12-17T19%3A28%3A38Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T11%3A56%3A01Z&ske=2022-12-18T11%3A56%3A01Z&sks=b&skv=2021-08-06&sig=xrki97KnKc5/9pfhb4Hne6A1pUFqOuscQlLkW5aIVks%3D",
                 "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-witqQrjtVL7aWyR7sJoiMdfK.png?st=2022-12-17T17%3A28%3A38Z&se=2022-12-17T19%3A28%3A38Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T11%3A56%3A01Z&ske=2022-12-18T11%3A56%3A01Z&sks=b&skv=2021-08-06&sig=f2CIYYXTr0lAuWiMeAo%2BCoqAdtN19Y6VO/LdI1s1WVw%3D",
@@ -455,8 +455,8 @@ const data = [
         ]
     },
     {
-        "text": "Mad max and Harry Potter are celebrating the New Year",
-        "generatedImagesList": [
+        text: "Mad max and Harry Potter are celebrating the New Year",
+        generatedImagesList: [
             [
                 "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-Pabh5t6Vw1GfAGSC3ic9lkDo.png?st=2022-12-17T16%3A54%3A48Z&se=2022-12-17T18%3A54%3A48Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T15%3A32%3A36Z&ske=2022-12-18T15%3A32%3A36Z&sks=b&skv=2021-08-06&sig=MLtT6BO8LDy/oQp/SQ90wR8D2AArBueGmec9amsFuyQ%3D",
                 "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-KuVrriWappYQnXu9lPuMLUL8.png?st=2022-12-17T16%3A54%3A48Z&se=2022-12-17T18%3A54%3A48Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T15%3A32%3A36Z&ske=2022-12-18T15%3A32%3A36Z&sks=b&skv=2021-08-06&sig=FVj09sBoG4muMgjx/Gsx/Qqmbhnv331XrUSmL6T9838%3D",
@@ -470,8 +470,8 @@ const data = [
         ]
     },
     {
-        "text": "Mad max and Harry Potter",
-        "generatedImagesList": [
+        text: "Mad max and Harry Potter",
+        generatedImagesList: [
             [
                 "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-LLscRlx3mlH5nOjXWoTIDLQi.png?st=2022-12-17T16%3A54%3A32Z&se=2022-12-17T18%3A54%3A32Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T12%3A19%3A00Z&ske=2022-12-18T12%3A19%3A00Z&sks=b&skv=2021-08-06&sig=8XMXnmN308GZRVaKBOBx11OqGgDpfCSXCSAFtnPRuOE%3D",
                 "https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZIJXtfnAxClRH6ygTMGMnkUc/user-LyOLVzKLGkv7TaCGrS3k0yF8/img-CL4EX2VtGRhFNkxTYLB7ZCsn.png?st=2022-12-17T16%3A54%3A32Z&se=2022-12-17T18%3A54%3A32Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-17T12%3A19%3A00Z&ske=2022-12-18T12%3A19%3A00Z&sks=b&skv=2021-08-06&sig=I/y%2BCKexiioMTM1vO6YcVthiNT3p4Vz5e%2Bs7oIUkI0g%3D",
@@ -485,3 +485,5 @@ const data = [
         ]
     },
 ]
+
+export default data

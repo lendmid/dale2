@@ -8,15 +8,15 @@ const configuration = new Configuration({
 
 const openai = new OpenAIApi(configuration);
 
-function App() {
+const Generate = (imagesUrl, setImagesUrl) => {
     const [userPrompt, setUserPrompt] = useState("")
     const [isLoading, setIsLoading] = useState(false)
 
     const generateImage = async () => {
         const imageParameters = {
             prompt: userPrompt,
-            n: 10,
-            size: "512x512"
+            n: 5,
+            size: "1024x1024"
 
         }
         setIsLoading(true)
@@ -52,4 +52,4 @@ function App() {
     );
 }
 
-export default App;
+export default Generate;
